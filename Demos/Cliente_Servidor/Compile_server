@@ -1,0 +1,2 @@
+g++ -w -o MS MS.cpp -lSDL -lSDL_image -lSDL_gfx -lSDL_ttf -lSDL_mixer -lSDL_ffmpeg -lSDL_net
+g++ -w -o MC MC.cpp -lSDL -lSDL_image -lSDL_gfx -lSDL_ttf -lSDL_mixer -lSDL_ffmpeg -lSDL_net

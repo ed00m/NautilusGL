@@ -1,0 +1,1 @@
+g++ -o arc Arc.cpp -lSDL -lSDL_image -lSDL_gfx -lSDL_ttf -lSDL_mixer

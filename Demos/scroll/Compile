@@ -1,0 +1,1 @@
+g++ -o scroll_h scroll_h.cpp -lSDL -lSDL_image -lSDL_gfx -lSDL_ttf -lSDL_mixer

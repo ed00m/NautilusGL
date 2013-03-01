@@ -1,0 +1,1 @@
+g++ -o vline vline.cpp -lSDL -lSDL_image -lSDL_gfx -lSDL_ttf -lSDL_mixer

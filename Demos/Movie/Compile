@@ -1,0 +1,1 @@
+g++ -o Test_movie Test_movie.cpp -lSDL -lSDL_image -lSDL_gfx -lSDL_ttf -lSDL_mixer -lSDL_ffmpeg -lSDL_net

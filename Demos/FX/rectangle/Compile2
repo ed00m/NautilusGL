@@ -1,0 +1,1 @@
+g++ -o rectangle_rounded rectangle_rounded.cpp -lSDL -lSDL_image -lSDL_gfx -lSDL_ttf -lSDL_mixer

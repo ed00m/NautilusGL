@@ -1,0 +1,1 @@
+g++ -o pie_filled pie_filled.cpp -lSDL -lSDL_image -lSDL_gfx -lSDL_ttf -lSDL_mixer

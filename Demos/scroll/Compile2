@@ -1,0 +1,1 @@
+g++ -o scroll_v scroll_v.cpp -lSDL -lSDL_image -lSDL_gfx -lSDL_ttf -lSDL_mixer
