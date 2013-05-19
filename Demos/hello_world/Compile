@@ -1,1 +1,1 @@
-g++ -o hola_mundo hola_mundo.cpp -lSDL -lSDL_image -lSDL_gfx -lSDL_ttf -lSDL_mixer
+g++ -o hola_mundo hola_mundo.cpp -lSDL -lSDL_image -lSDL_mixer
