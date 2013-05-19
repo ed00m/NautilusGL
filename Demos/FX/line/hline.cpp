@@ -1,4 +1,4 @@
-#include "Nautilus.h"
+#include "Nautilus/Nautilus.h"
 
 int
 main(int argc, char* args[] )
